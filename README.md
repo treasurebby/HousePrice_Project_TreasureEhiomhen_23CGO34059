@@ -48,7 +48,7 @@ text## Installation & Local Setup
 1. Clone the repository
 
 ```bash
-git clone https://github.com/[yourusername]/HousePrice_Project_Adeboyin_[matric].git
+git clone [https://github.com/[yourusername]/HousePrice_Project_Adeboyin_[matric].git](https://github.com/treasurebby/HousePrice_Project_TreasureEhiomhen_23CGO34059)
 cd HousePrice_Project_EhiomhenTreasure_23CG034059
 
 Install dependencies
