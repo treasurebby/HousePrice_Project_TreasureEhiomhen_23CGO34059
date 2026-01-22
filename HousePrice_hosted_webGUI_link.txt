@@ -1,0 +1,6 @@
+Name: Adeboyin
+Matric Number: [your_matric_number_here]
+Machine Learning Algorithm Used: Linear Regression
+Model persistence method used: Joblib
+Live URL of the hosted application: https://your-app-name.onrender.com   ← update after deploy
+GitHub repository link: https://github.com/yourusername/HousePrice_Project_Adeboyin_matricNo
