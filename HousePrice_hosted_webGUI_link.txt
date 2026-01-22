@@ -1,6 +1,6 @@
-Name: Adeboyin
-Matric Number: [your_matric_number_here]
+Name: Ehiomhen Treasure
+Matric Number: 23CG034059
 Machine Learning Algorithm Used: Linear Regression
 Model persistence method used: Joblib
-Live URL of the hosted application: https://your-app-name.onrender.com   ← update after deploy
-GitHub repository link: https://github.com/yourusername/HousePrice_Project_Adeboyin_matricNo
+Live URL of the hosted application: https://houseprice-project-treasureehiomhen.onrender.com
+GitHub repository link: https://github.com/treasurebby/HousePrice_Project_TreasureEhiomhen_23CGO34059
